@@ -38,7 +38,7 @@ app.post('/webhook/', function (req, res) {
 	    let event = req.body.entry[0].messaging[i]
 	    let sender = event.sender.id
 	    if (event.message && event.message.text) {
-	    	//edit to send to pythonshell where it returns what to say and save the return into text.
+	    	//edit to send to pythonshell where it returns what to say and save the return into text
 	    	var options = {
 	    		args: [event.message.text]
 	    	}
