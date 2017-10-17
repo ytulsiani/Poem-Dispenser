@@ -3,6 +3,7 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 const request = require('request')
+const PythonShell = require('python-shell')
 const app = express()
 
 app.set('port', (process.env.PORT || 5000))
@@ -37,14 +38,26 @@ app.post('/webhook/', function (req, res) {
 	    let event = req.body.entry[0].messaging[i]
 	    let sender = event.sender.id
 	    if (event.message && event.message.text) {
-		    let text = event.message.text
-		    sendTextMessage(sender, "Text received, echo: " + text.substring(0, 200))
+	    	//edit to send to pythonshell where it returns what to say and save the return into text.
+	    	var options = {
+	    		args: [event.message.text]
+	    	}
+	    	PythonShell.run('event_handler.py', options, function(err, results)) {
+	    		if (err) {
+	    			console.log(err);
+	    		}
+	    		text = results[0]
+	    		sendTextMessage(sender, "Here is a poem from Python my friend: " + text)
+	    	}
+		    //let text = event.message.text
+		    
 	    }
     }
     res.sendStatus(200)
 })
 
 const token = process.env.FB_PAGE_ACCESS_TOKEN
+
 function sendTextMessage(sender, text) {
     let messageData = { text:text }
     request({
