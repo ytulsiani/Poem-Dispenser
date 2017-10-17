@@ -1,7 +1,7 @@
 import sys
 
 def main():
-	text = sys.argsv[1]
+	text = sys.argv[1]
 	print('pied piper') 
 
 if __name__ == '__main__':
