@@ -17,5 +17,3 @@ bot.hear(['hello', 'hi', /hey( there)?/i], (payload, chat) => {
   chat.say(`Echo: ${text}`);
 
 });
-
-bot.start();
