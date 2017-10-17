@@ -42,13 +42,13 @@ app.post('/webhook/', function (req, res) {
 	    	var options = {
 	    		args: [event.message.text]
 	    	}
-	    	PythonShell.run('event_handler.py', options, function(err, results)) {
+	    	PythonShell.run('event_handler.py', options, function(err, results) {
 	    		if (err) {
 	    			console.log(err);
 	    		}
 	    		text = results[0]
 	    		sendTextMessage(sender, "Here is a poem from Python my friend: " + text)
-	    	}
+	    	})
 		    //let text = event.message.text
 		    
 	    }
