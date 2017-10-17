@@ -5,6 +5,7 @@ const bot = new BootBot({
   accessToken: process.env.FB_PAGE_ACCESS_TOKEN
   verifyToken: process.env.FB_VERIFY_TOKEN,
   appSecret: process.env.FB_APP_SECRET
+  webhook: '/webhook/'
 });
 
 bot.on('message', (payload, chat) => {
