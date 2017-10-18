@@ -47,10 +47,12 @@ app.post('/webhook/', function (req, res) {
 	    		if (err) {
 	    			console.log(err);
 	    		}
+    			
 	    		results.forEach(function(result) {
-    				var text = result
-	    			sendTextMessage(sender, text)
+					var text = result
+    				sendTextMessage(sender, text)
 				});
+	    	})
 		    //let text = event.message.text
 		    
 	    }
