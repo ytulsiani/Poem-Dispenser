@@ -28,7 +28,6 @@ def findRandomPoem():
 	p = findPoemByGenre(choice(list(Genre)))
 	return p
 def findPoemByGenre(genre):
-	print(genre.value)
 	json_data=open('Poems.json').read()
 	data = json.loads(json_data)
 	poem = data[genre.value][str(randint(0, 5))]

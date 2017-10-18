@@ -27,106 +27,106 @@
   },
   "nature": {
   "0": {    
-      "text": "black",
-      "author": "hue"
+      "text": "NATURE 1",
+      "author": "NATURE AUTH 1"
   },
   "1": {
-      "text": "white",
-      "author": "value"
+      "text": "NATURE 2",
+      "author": "NATURE AUTH 2"
   },
   "2": {
-      "text": "white",
-      "author": "value"
+      "text": "NATURE 3",
+      "author": "NATURE AUTH 3"
     },
   "3": {
-      "text": "white",
-      "author": "value"
+      "text": "NATURE 4",
+      "author": "NATURE AUTH 4"
     },
   "4": {
-      "text": "white",
-      "author": "value"
+      "text": "NATURE 5",
+      "author": "NATURE AUTH 5"
     },
   "5": {
-      "text": "white",
-      "author": "value"
+      "text": "NATURE 6",
+      "author": "NATURE AUTH 6"
     }
   },
   "love": {
   "0": {    
-      "text": "black",
-      "author": "hue"
+      "text": "LOVE 1",
+      "author": "LOVE AUTH 1"
   },
   "1": {
-      "text": "white",
-      "author": "value"
+      "text": "LOVE 2",
+      "author": "LOVE AUTH 2"
   },
   "2": {
-      "text": "white",
-      "author": "value"
+      "text": "LOVE 3",
+      "author": "LOVE AUTH 3"
     },
   "3": {
-      "text": "white",
-      "author": "value"
+      "text": "LOVE 4",
+      "author": "LOVE AUTH 4"
     },
   "4": {
-      "text": "white",
-      "author": "value"
+      "text": "LOVE 5",
+      "author": "LOVE AUTH 5"
     },
   "5": {
-      "text": "white",
-      "author": "value"
+      "text": "LOVE 6",
+      "author": "LOVE AUTH 6"
     }
   },
   "depression": {
   "0": {    
-      "text": "black",
-      "author": "hue"
+      "text": "DEPRESSION 1",
+      "author": "DEPRESSION AUTH 1"
   },
   "1": {
-      "text": "white",
-      "author": "value"
+      "text": "DEPRESSION 2",
+      "author": "DEPRESSION AUTH 2"
   },
   "2": {
-      "text": "white",
-      "author": "value"
+      "text": "DEPRESSION 3",
+      "author": "DEPRESSION AUTH 3"
     },
   "3": {
-      "text": "white",
-      "author": "value"
+      "text": "DEPRESSION 4",
+      "author": "DEPRESSION AUTH 4"
     },
   "4": {
-      "text": "white",
-      "author": "value"
+      "text": "DEPRESSION 5",
+      "author": "DEPRESSION AUTH 5"
     },
   "5": {
-      "text": "white",
-      "author": "value"
+      "text": "DEPRESSION 6",
+      "author": "DEPRESSION AUTH 6"
     }
   },
   "politics": {
   "0": {    
-      "text": "black",
-      "author": "hue"
+      "text": "POLITICS 1",
+      "author": "POLITICS AUTH 1"
   },
   "1": {
-      "text": "white",
-      "author": "value"
+      "text": "POLITICS 2",
+      "author": "POLITICS AUTH 2"
   },
   "2": {
-      "text": "white",
-      "author": "value"
+      "text": "POLITICS 3",
+      "author": "POLITICS AUTH 3"
     },
   "3": {
-      "text": "white",
-      "author": "value"
+      "text": "POLITICS 4",
+      "author": "POLITICS AUTH 4"
     },
   "4": {
-      "text": "white",
-      "author": "value"
+      "text": "POLITICS 5",
+      "author": "POLITICS AUTH 5"
     },
   "5": {
-      "text": "white",
-      "author": "value"
+      "text": "POLITICS 6",
+      "author": "POLITICS AUTH 6"
     }
   }
 }

@@ -51,6 +51,7 @@ app.post('/webhook/', function (req, res) {
 	    		results.forEach(function(result) {
 					var text = result
     				sendTextMessage(sender, text)
+    				await sleep(1000);
 				});
 	    	})
 		    //let text = event.message.text
