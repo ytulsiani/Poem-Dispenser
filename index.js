@@ -47,7 +47,7 @@ app.post('/webhook/', function (req, res) {
 	    		if (err) {
 	    			console.log(err);
 	    		}
-	    		for result in results:
+	    		for each (result in results):
 	    			var text = result
 	    			sendTextMessage(sender, text)
 	    	})
