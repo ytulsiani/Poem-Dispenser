@@ -1,0 +1,132 @@
+{
+"free verse": {
+  "0": {    
+      "text": "FREEVERSEPOEM 1",
+      "author": "FV AUTH 1"
+  },
+  "1": {
+      "text": "FREEVERSEPOEM 2",
+      "author": "FV AUTH 2"
+  },
+  "2": {
+      "text": "FREEVERSEPOEM 3",
+      "author": "FV AUTH 3"
+    },
+  "3": {
+      "text": "FREEVERSEPOEM 4",
+      "author": "FV AUTH 4"
+    },
+  "4": {
+      "text": "FREEVERSEPOEM 5",
+      "author": "FV AUTH 5"
+    },
+  "5": {
+      "text": "FREEVERSEPOEM 6",
+      "author": "FV AUTH 6"
+    }
+  },
+  "nature": {
+  "0": {    
+      "text": "black",
+      "author": "hue"
+  },
+  "1": {
+      "text": "white",
+      "author": "value"
+  },
+  "2": {
+      "text": "white",
+      "author": "value"
+    },
+  "3": {
+      "text": "white",
+      "author": "value"
+    },
+  "4": {
+      "text": "white",
+      "author": "value"
+    },
+  "5": {
+      "text": "white",
+      "author": "value"
+    }
+  },
+  "love": {
+  "0": {    
+      "text": "black",
+      "author": "hue"
+  },
+  "1": {
+      "text": "white",
+      "author": "value"
+  },
+  "2": {
+      "text": "white",
+      "author": "value"
+    },
+  "3": {
+      "text": "white",
+      "author": "value"
+    },
+  "4": {
+      "text": "white",
+      "author": "value"
+    },
+  "5": {
+      "text": "white",
+      "author": "value"
+    }
+  },
+  "depression": {
+  "0": {    
+      "text": "black",
+      "author": "hue"
+  },
+  "1": {
+      "text": "white",
+      "author": "value"
+  },
+  "2": {
+      "text": "white",
+      "author": "value"
+    },
+  "3": {
+      "text": "white",
+      "author": "value"
+    },
+  "4": {
+      "text": "white",
+      "author": "value"
+    },
+  "5": {
+      "text": "white",
+      "author": "value"
+    }
+  },
+  "politics": {
+  "0": {    
+      "text": "black",
+      "author": "hue"
+  },
+  "1": {
+      "text": "white",
+      "author": "value"
+  },
+  "2": {
+      "text": "white",
+      "author": "value"
+    },
+  "3": {
+      "text": "white",
+      "author": "value"
+    },
+  "4": {
+      "text": "white",
+      "author": "value"
+    },
+  "5": {
+      "text": "white",
+      "author": "value"
+    }
+  }
+}
