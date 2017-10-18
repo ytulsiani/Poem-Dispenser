@@ -47,7 +47,7 @@ app.post('/webhook/', function (req, res) {
 	    		if (err) {
 	    			console.log(err);
 	    		}
-	    		var text = results[0]
+	    		text = results[0]
 	    		sendTextMessage(sender, "Here is a poem from Python my friend: " + text)
 	    	})
 		    //let text = event.message.text
