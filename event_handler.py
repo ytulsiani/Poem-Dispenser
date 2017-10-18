@@ -47,7 +47,7 @@ def main():
 		text = poem.text
 		author = poem.author
 		genre = poem.genre
-		print('Here is a poem by {}. It is of the genre {}. \\n {}'.format(author, genre, text))
+		print('Here is a poem by {}. It is of the genre {}. <br/> {}'.format(author, genre, text))
 	else:
 		for genre_name, genre in Genre.__members__.items():
 			if genre.value in inputMessage:
@@ -55,7 +55,7 @@ def main():
 				text = poem.text
 				author = poem.author
 				genre = poem.genre
-				print('Here is a poem by {}. It is of the genre {}. \r\n {}'.format(author, genre, text))
+				print('Here is a poem by {}. It is of the genre {}. \n {}'.format(author, genre, text))
 				return
 		print("Your message is not valid. Please ask for a random poem or choose a genre to get your poem. You can choose from free verse, nature, love, depression, and politics")
 
