@@ -56,7 +56,6 @@ def main():
 				author = poem.author
 				genre = poem.genre
 				print('Here is a poem by {}. It is of the genre {}.\n \n {}'.format(author, genre, text))
-				print(text)
 				return
 		print("Your message is not valid. Please ask for a random poem or choose a genre to get your poem. You can choose from free verse, nature, love, depression, and politics")
 
