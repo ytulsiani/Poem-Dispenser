@@ -4,6 +4,7 @@ from pprint import pprint
 from enum import Enum
 from random import *
 class Genre(Enum):
+	#change so it reads the genres from the JSON files
 	freeverse = "free verse"
 	nature = "nature"
 	love = "love"
@@ -46,9 +47,7 @@ def main():
 		text = poem.text
 		author = poem.author
 		genre = poem.genre
-		print("Let's find you a random poem!")
-		print('Here is a poem by {}. It is of the genre {}.'.format(author, genre))
-		print(text)
+		print('Here is a poem by {}. It is of the genre {}.\n \n {}'.format(author, genre, text))
 	else:
 		for genre_name, genre in Genre.__members__.items():
 			if genre.value in inputMessage:
@@ -56,10 +55,10 @@ def main():
 				text = poem.text
 				author = poem.author
 				genre = poem.genre
-				print('Here is a poem by {}. It is of the genre {}.'.format(author, genre))
+				print('Here is a poem by {}. It is of the genre {}.\n \n {}'.format(author, genre, text))
 				print(text)
 				return
-		print("You did not follow the directions. Please ask for a 'random poem' or choose a genre to get your poem.")
+		print("Your message is not valid. Please ask for a random poem or choose a genre to get your poem. You can choose from free verse, nature, love, depression, and politics")
 
 if __name__ == '__main__':
     main()
