@@ -1,12 +1,8 @@
 {
   "name": "poem-dispenser",
   "version": "1.0.0",
-  "description": "",
+  "description": "A messenger bot that despenses poems",
   "main": "index.js",
-  "dependencies": {
-    "bootbot": "^1.0.12"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ytulsiani/Poem-Dispenser/issues"
   },
-  "homepage": "https://github.com/ytulsiani/Poem-Dispenser#readme"
+  "homepage": "https://github.com/ytulsiani/Poem-Dispenser#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "python-shell": "^0.4.0",
+    "request": "^2.83.0"
+  }
 }
