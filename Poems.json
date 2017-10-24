@@ -1,132 +1,136 @@
 {
 "free verse": {
   "0": {    
-      "text": "FREEVERSEPOEM 1",
-      "author": "FV AUTH 1"
+      "text": "The apparition of these faces in the crowd: Petals on a wet, black bough.",
+      "author": "Ezra Pound"
   },
   "1": {
-      "text": "FREEVERSEPOEM 2",
-      "author": "FV AUTH 2"
+      "text": "Come slowly, Eden Lips unused to thee. Bashful, sip thy jasmines, As the fainting bee, Reaching late his flower, Round her chamber hums, Counts his nectars—alights, And is lost in balms!",
+      "author": "Emily Dickinson"
   },
   "2": {
-      "text": "FREEVERSEPOEM 3",
-      "author": "FV AUTH 3"
+      "text": "Beginning my studies the first step pleas'd me so much, The mere fact consciousness, these forms, the power of motion, The least insect or animal, the senses, eyesight, love, The first step I say awed me and pleas'd me so much, I have hardly gone and hardly wish'd to go any farther, But stop and loiter all the time to sing it in ecstatic songs.",
+      "author": "Walt Whitman"
     },
   "3": {
-      "text": "FREEVERSEPOEM 4",
-      "author": "FV AUTH 4"
+      "text": "The fog comes on little cat feet. It sits looking over harbor and city on silent haunches and then moves on.
+",
+      "author": "Carl Sandburg"
     },
   "4": {
-      "text": "FREEVERSEPOEM 5",
-      "author": "FV AUTH 5"
+      "text": "Some kind of attraction that is neither Animal, vegetable, nor mineral, a power not Solar, fusion, or magnetic And it is all in my head that I could see into his And find myself sitting there.
+",
+      "author": "Katherine Foreman"
     },
   "5": {
-      "text": "FREEVERSEPOEM 6",
-      "author": "FV AUTH 6"
+      "text": "After the Sea-Ship—after the whistling winds; After the white-gray sails, taut to their spars and ropes, Below, a myriad, myriad waves, hastening, lifting up their necks,  Tending in ceaseless flow toward the track of the ship:  Waves of the ocean, bubbling and gurgling, blithely prying, Waves, undulating waves—liquid, uneven, emulous waves, Toward that whirling current, laughing and buoyant, with curves,  Where the great Vessel, sailing and tacking, displaced the surface;",
+      "author": "Walt Whitman"
     }
   },
-  "nature": {
+  "limerick": {
   "0": {    
-      "text": "NATURE 1",
-      "author": "NATURE AUTH 1"
+      "text": "A wonderful bird is the pelican, His bill can hold more than his beli-can. He can take in his beak Food enough for a week But I’m damned if I see how the heli-can.",
+      "author": "Ogden Nash"
   },
   "1": {
-      "text": "NATURE 2",
-      "author": "NATURE AUTH 2"
+      "text": "There was an Old Man of Peru Who watched his wife making a stew. But once, by mistake, In a stove she did bake That unfortunate Man of Peru.",
+      "author": "Edward Lear"
   },
   "2": {
-      "text": "NATURE 3",
-      "author": "NATURE AUTH 3"
+      "text": "The limerick packs laughs anatomical Into space that is quite economical. But the good ones I've seen So seldom are clean And the clean ones so seldom are comical.",
+      "author": "Anonymous"
     },
   "3": {
-      "text": "NATURE 4",
-      "author": "NATURE AUTH 4"
+      "text": "I once knew a bird who was in love On Valentine's he would sing to a dove He would sing until dawn  And collapse on the lawn When the dove came and gave him a shove",
+      "author": "Kaitlyn Guenther"
     },
   "4": {
-      "text": "NATURE 5",
-      "author": "NATURE AUTH 5"
+      "text": "There was an Old Man with a beard, Who said, 'It is just as I feared! Two Owls and a Hen, Four Larks and a Wren, Have all built their nests in my beard!
+",
+      "author": "Edward Lear"
     },
   "5": {
-      "text": "NATURE 6",
-      "author": "NATURE AUTH 6"
+      "text": "And let me the canakin clink, clink; And let me the canakin clink A soldier’s a man; A life’s but a span; Why, then, let a soldier drink.",
+      "author": "William Shakespeare"
     }
   },
-  "love": {
+  "haiku": {
   "0": {    
-      "text": "LOVE 1",
-      "author": "LOVE AUTH 1"
+      "text": "From time to time The clouds give rest To the moon-beholders.",
+      "author": "Matsuo Basho"
   },
   "1": {
-      "text": "LOVE 2",
-      "author": "LOVE AUTH 2"
+      "text": "My life, - How much more of it remains? The night is brief.",
+      "author": "Masaoka Shiki"
   },
   "2": {
-      "text": "LOVE 3",
-      "author": "LOVE AUTH 3"
+      "text": "The lamp once out Cool stars enter The window frame.",
+      "author": "Natsume Soseki"
     },
   "3": {
-      "text": "LOVE 4",
-      "author": "LOVE AUTH 4"
+      "text": "First autumn morning the mirror I stare into shows my father's face.",
+      "author": "Murakami Kijo"
     },
   "4": {
-      "text": "LOVE 5",
-      "author": "LOVE AUTH 5"
+      "text": "An autumn eve; There is joy too, In loneliness.",
+      "author": "Yosa Buson"
     },
   "5": {
-      "text": "LOVE 6",
-      "author": "LOVE AUTH 6"
-    }
-  },
-  "depression": {
-  "0": {    
-      "text": "DEPRESSION 1",
-      "author": "DEPRESSION AUTH 1"
-  },
-  "1": {
-      "text": "DEPRESSION 2",
-      "author": "DEPRESSION AUTH 2"
-  },
-  "2": {
-      "text": "DEPRESSION 3",
-      "author": "DEPRESSION AUTH 3"
-    },
-  "3": {
-      "text": "DEPRESSION 4",
-      "author": "DEPRESSION AUTH 4"
-    },
-  "4": {
-      "text": "DEPRESSION 5",
-      "author": "DEPRESSION AUTH 5"
-    },
-  "5": {
-      "text": "DEPRESSION 6",
-      "author": "DEPRESSION AUTH 6"
-    }
-  },
-  "politics": {
-  "0": {    
-      "text": "POLITICS 1",
-      "author": "POLITICS AUTH 1"
-  },
-  "1": {
-      "text": "POLITICS 2",
-      "author": "POLITICS AUTH 2"
-  },
-  "2": {
-      "text": "POLITICS 3",
-      "author": "POLITICS AUTH 3"
-    },
-  "3": {
-      "text": "POLITICS 4",
-      "author": "POLITICS AUTH 4"
-    },
-  "4": {
-      "text": "POLITICS 5",
-      "author": "POLITICS AUTH 5"
-    },
-  "5": {
-      "text": "POLITICS 6",
-      "author": "POLITICS AUTH 6"
+      "text": "Over the wintry forest, winds howl in  rage with no leaves to blow.",
+      "author": "Natsume Soseki"
     }
   }
-}
+}, 
+ "nature": {
+ "0": {
+ "text": "Nature is what we see— The Hill—the Afternoon— Squirrel—Eclipse— the Bumble bee— Nay—Nature is Heaven— Nature is what we hear— The Bobolink—the Sea— Thunder—the Cricket— Nay—Nature is Harmony— Nature is what we know— Yet have no art to say— So impotent Our Wisdom is To her Simplicity. ",
+ "author": "Emily Dickinson"
+ },
+ "1": {
+ "text": "From God he's a backslider, Of ways he loves the wider; With wickedness a sider, More venom than a spider. In sin he's a considerer, A make-bate and divider; Blind reason is his guider, The devil is his rider.",
+ "author": "John Bunyan"
+ },
+ "2": {
+ "text": "Calm is all nature as a resting wheel. The kine are couched upon the dewy grass; The horse alone, seen dimly as I pass, Is cropping audibly his later meal: Dark is the ground; a slumber seems to steal O'er vale, and mountain, and the starless sky. Now, in this blank of things, a harmony, Home-felt, and home-created, comes to heal That grief for which the senses still supply Fresh food; for only then, when memory Is hushed, am I at rest. My Friends! restrain Those busy cares that would allay my pain; Oh! leave me to myself, nor let me feel The officious touch that makes me droop again.",
+ "author": "William Wordsworth"
+ },
+ "3": {
+ "text": "When first the crocus thrusts its point of gold Up through the still snow-drifted garden mould, And folded green things in dim woods unclose Their crinkled spears, a sudden tremor goes  Into my veins and makes me kith and kin To every wild-born thing that thrills and blows. Sitting beside this crumbling sea-coal fire, Here in the city's ceaseless roar and din, Far from the brambly paths I used to know, Far from the rustling brooks that slip and shine Where the Neponset alders take their glow, I share the tremulous sense of bud and briar And inarticulate ardors of the vine.",
+ "author": "Thomas Bailey Aldrich"
+ },
+ "4": {
+ "text": "The sun creeps over the hill, and the silence is broken by a song birds trill. As the golden rays highlight the trees, they shake, and rustle, with the morning breeze. Cotton ball clouds skip across the sky, while a hawk circles, searching on high. Each, and every dawn is quite unique, when nature awakes, and starts to speak.",
+ "author": "Tango"
+ },
+ "5": {
+ "text": "Folks would talk about it, and even after I lived in that mountain town months, a year, even after getting close with the girl from the pharmacy, guys from the woods, I did not know. I waited to somehow divine what it was. Be invited. Still I imagine a great expanse, a meadow, high above the town, of tiny flowers, like lovers on their backs, looking up.",
+ "author": "Jill Osier"
+ }
+ },
+ "love": {
+ "0": {
+ "text": "Come, my Celia, let us prove, While we can, the sports of love; Time will not be ours forever; He at length our good will sever. Spend not then his gifts in vain. Suns that set may rise again; But if once we lose this light,  ’Tis with us perpetual night. Why should we defer our joys? Fame and rumor are but toys. Cannot we delude the eyes Of a few poor household spies, Or his easier ears beguile, So removèd by our wile? ’Tis no sin love’s fruit to steal; But the sweet thefts to reveal, To be taken, to be seen, These have crimes accounted been.",
+ "author": "Ben Johnson"
+ },
+ "1": {
+ "text": "You did not come, And marching Time drew on, and wore me numb,— Yet less for loss of your dear presence there Than that I thus found lacking in your make That high compassion which can overbear Reluctance for pure lovingkindness’ sake Grieved I, when, as the hope-hour stroked its sum, You did not come. You love not me, And love alone can lend you loyalty; –I know and knew it. But, unto the store Of human deeds divine in all but name, Was it not worth a little hour or more To add yet this: Once you, a woman, came To soothe a time-torn man; even though it be You love not me?",
+ "author": "Thomas Hardy"
+ },
+ "2": {
+ "text": "He danced with tall grass for a moment, like he was swaying with a woman. Our gun barrels glowed white-hot. When I got to him, a blue halo of flies had already claimed him. I pulled the crumbled photograph from his fingers. There's no other way to say this: I fell in love. The morning cleared again, except for a distant mortar & somewhere choppers taking off. I slid the wallet into his pocket & turned him over, so he wouldn't be  kissing the ground.",
+ "author": "Yusef Komunyakaa"
+ },
+ "3": {
+ "text": "Every night, we couldn’t sleep. Our upstairs neighbors had to keep Dropping something down the hall— A barbell or a bowling ball, And from the window by the bed, Echoing inside my head, Alley cats expended breath In arias of love and death. Dawn again, across the street, Jackhammers began to beat Like hangovers, and you would frown— That well-built house, why tear it down? Noon, the radiator grill Groaned, gave off a lesser chill So that we could take off our coats. The pipes coughed to clear their throats. Our nerves were frayed like ravelled sleeves, We cherished each our minor griefs To keep them warm until the night, When it was time again to fight; But we were young, did not need much To make us laugh instead, and touch, And could not hear ourselves above The arias of death and love.",
+ "author": "A.E. Stallings"
+ },
+ "4": {
+ "text": "A glimpse through an interstice caught, Of a crowd of workmen and drivers in a bar-room around the stove late of a winter night, and I unremark’d seated in a corner, Of a youth who loves me and whom I love, silently approaching and seating himself near, that he may hold me by the hand, A long while amid the noises of coming and going, of drinking and oath and smutty jest, There we two, content, happy in being together, speaking little, perhaps not a word.",
+ "author": "Walt Whitman"
+ },
+ "5": {
+ "text": "A clementine Of inclement climate Grows tart. A crocus Too stoic to open, Won’t. Like an oyster That cloisters a spoil of pearls, Untouched— The heart that’s had Enough Stays shut.",
+ "author": "Jill Alexander"
+ }
+ },
+
