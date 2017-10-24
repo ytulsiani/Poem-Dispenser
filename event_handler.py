@@ -1,5 +1,6 @@
 import sys
 import json
+import textwrap
 from pprint import pprint
 from enum import Enum
 from random import *
@@ -47,7 +48,9 @@ def main():
 		text = poem.text
 		author = poem.author
 		genre = poem.genre
-		print('Here is a poem by {}. It is of the genre {}. \n {}'.format(author, genre, text))
+		print('Here is a poem by {}. It is of the genre {}. \n'.format(author, genre))
+		text = textwrap.fill(text, 40)
+		print(text)
 	else:
 		for genre_name, genre in Genre.__members__.items():
 			if genre.value in inputMessage:
@@ -55,7 +58,9 @@ def main():
 				text = poem.text
 				author = poem.author
 				genre = poem.genre
-				print('Here is a poem by {}. It is of the genre {}. \n {}'.format(author, genre, text))
+				print('Here is a poem by {}. It is of the genre {}. \n'.format(author, genre))
+				text = textwrap.fill(text, 40)
+				print(text)
 				return
 		print("Your message is not valid. Please ask for a random poem or choose a genre to get your poem. You can choose from free verse, nature, love, limerick, and haiku")
 
