@@ -43,7 +43,9 @@ def findPoemByGenre(genre):
 def main():
 	inputMessage = sys.argv[1]
 	inputMessage = inputMessage.lower()
-	if "random" in inputMessage:
+	if ("hi" in inputMessage or "hello" in inputMessage):
+		print("Hi, I'm PoBot. Ask me for a random poem to get started. Or, if you'd like a poem related to one of the following topics, let me know: haiku, free verse, limerick, love, or nature.")
+	elif "random" in inputMessage:
 		poem = findRandomPoem()
 		text = poem.text
 		author = poem.author
