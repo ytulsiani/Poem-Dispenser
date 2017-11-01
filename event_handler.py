@@ -11,7 +11,6 @@ class Genre(Enum):
 	love = "love"
 	limerick = "limerick"
 	haiku = "haiku"
-
 class Poem:
 	text = ""
 	author = ""
